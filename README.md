@@ -8,8 +8,8 @@ Sample website with plenty of files for demos
 
 ## Training Links
 
-http://bitly.com/git-start-web
-http://meettheipsums.com/
-http://hipsum.co/
+http://bitly.com/git-start-web<p>
+http://meettheipsums.com/<p>
+http://hipsum.co/<p>
 
 
